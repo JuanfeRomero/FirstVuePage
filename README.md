@@ -1,5 +1,5 @@
 # vue-app
-
+Aplicacion de Vue utilizando un falso backend con jsonplaceholder
 ## Project setup
 ```
 npm install
